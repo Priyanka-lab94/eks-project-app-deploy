@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: priyalog/nodejs:latest
+  repository: priyalog/eto.ecom.v1.1.1
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
